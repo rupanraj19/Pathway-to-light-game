@@ -1,6 +1,6 @@
 ## Pathway to light
 
-**Pathway to Light is a Unity game hosted on [itch.io](itch.io/game/edit/2930899). This repository contains the source code and project files for the game.
+** Pathway to Light is a Unity game hosted on [itch.io](itch.io/game/edit/2930899). This repository contains the source code and project files for the game.
 
 ## Installation
 
